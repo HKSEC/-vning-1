@@ -16,6 +16,6 @@ A bash script for collecting system information and performing interactive NMAP 
 
 ## Quick Start
 
-bash
+# bash
 chmod +x recon.sh
 ./recon.sh [target]
