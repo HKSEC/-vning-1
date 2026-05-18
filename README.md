@@ -17,7 +17,7 @@ A bash script for collecting system information and performing interactive NMAP 
 ## Installation
 
 bash
-git clone https://github.com/HKSEC/Script.git
+git clone https://github.com/HKSEC/-vning-1.git
 cd o1
 chmod +x recon.sh
 ./recon.sh [target]
