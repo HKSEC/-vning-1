@@ -14,9 +14,10 @@ A bash script for collecting system information and performing interactive NMAP 
 - NMAP installed (sudo apt install nmap)
 - Root privileges (for some scans)
 
-## Quick Start
+## Installation
 
 bash
-
+git clone https://github.com/HKSEC/Script.git
+cd Script
 chmod +x recon.sh
 ./recon.sh [target]
