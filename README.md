@@ -16,8 +16,13 @@ A bash script for collecting system information and performing interactive NMAP 
 
 ## Installation
 
-bash
+```bash
 git clone https://github.com/HKSEC/-vning-1.git
-cd o1
+cd -vning-1
 chmod +x recon.sh
+```
+## Quick Start
+
+```bash
 ./recon.sh [target]
+```
